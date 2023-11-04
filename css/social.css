@@ -1,0 +1,11 @@
+.social {
+    padding-block-end: 24px;
+    display: flex;
+    gap: 16px;
+}
+
+.social a {
+    background-color: #6DB1BF;
+    border: 1px solid #0f0a0a;
+    border-radius: 5px;
+}

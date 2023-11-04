@@ -1,0 +1,30 @@
+@import "./header.css";
+@import "./menu.css";
+@import "./hero.css";
+@import "./social.css";
+@import "./button-icon.css";
+@import "./button.css";
+@import "./project.css";
+@import "./card.css";
+@import "./shared.css";
+@import "./footer.css";
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+    /*
+    NEGRO: #020202;
+    AZUL: #6DB1BF;
+    BLANCO: #F5F5F5; 
+    PINK: #FF4788;
+    GREEN: #5B9A74;
+    */
+    
